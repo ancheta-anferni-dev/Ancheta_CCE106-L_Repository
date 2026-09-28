@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Ancheta FlatList Activity",
+    "slug": "ancheta-flatlist-activity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "android": {
+      "package": "com.ancheta.flatlistactivity"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
